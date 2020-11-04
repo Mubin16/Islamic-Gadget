@@ -1,0 +1,875 @@
+<resources>
+    <string name="app_name">Islamic Gadget</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Login/Signup</string>
+    <string name="menu_notification">Notification</string>
+    <string name="menu_slanguage">Language</string>
+    <string name="menu_condition">Terms &amp; Condition</string>
+    <string name="menu_rating">Rating</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_Logout">Logout</string>
+
+
+    <string name="gadget2">Islamic_gadget</string>
+    <string name="title_activity_location">Map</string>
+    <string name="location">
+        "press accept button to set your\n"
+           "automatic location  tracking\n"
+    </string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--strings for viewpager-->
+    <string name="next">SKIP</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+
+    <string name="title_activity_kalima_page1">kalima_page1</string>
+
+
+    <string name="kalimapart1">
+
+            "لآ اِلَهَ اِلّا اللّهُ مُحَمَّدٌ رَسُوُلالل\n"
+
+
+    </string>
+    <string name="kalimapart2">
+
+ "There is none worthy of worship except Allah and Muhammad is the Messenger of Allah.\n"
+    </string>
+    <string name="kalimapart3">
+
+        "Laaa Ilaaha Illa-llaahu Muhammadur- Rasoolu-llaah\n"
+
+    </string>
+
+    <string name="kalimapart4">
+        "/اَشْهَدُ اَنْ لَّآ اِلٰهَ اِلَّا اللهُ وَحْدَہٗ لَاشَرِيْكَ لَہٗ وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهٗ وَرَسُولُہٗ‎"
+    </string>
+
+    <string name="Kalimapart5">
+       "Bear witness that there is none worthy of worship except Allah,"
+        "the One alone, without partner, and I bear witness that Muhammad is His servant and Messenger"
+    </string>
+
+    <string name="Kalimapart6">
+        "Ash-hadu Al-laaa Ilaaha Illa-llaahu Wahdahoo Laa Shareeka Lahoo"
+        "Wa-Ash-hadu Anna Muhammadan ‘Abduhoo Wa Rasooluhu."
+
+
+    </string>
+    <string name="kalimapart7">
+        "سُبْحَان اللهِ وَالْحَمْدُلِلّهِ وَلا إِلهَ إِلّااللّهُ وَاللّهُ أكْبَرُ وَلا حَوْلَ وَلاَ قُوَّةَ إِلَّا بِاللّهِ الْعَلِيِّ الْعَظِيْم‎"
+
+    </string>
+
+    <string name="Kalimapart8">
+        "Glory be to Allah and all praise be to Allah, there is none worthy of worship except Allah, and Allah is the Greatest.\n"
+        "There is no might or power except from Allah, the Exalted, the Great One.\n"
+
+    </string>
+
+    <string name="kalimapart9">
+        "Subhaana-llaahi Walhamdu Lillaahi Walaaa Ilaaha Illa-llaahu Wallaahu Akbar.\n"
+        "Walaa Hawla Walaa Quwwata Illaa Billaahi-l ‘Aliyyil ‘Azeem\n"
+    </string>
+
+    <string name="Kalimapart10">
+        "لَآ اِلٰهَ اِلَّا اللهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ لَهُ الْمُلْكُ وَ لَهُ"
+        "الْحَمْدُ يُحْىٖ وَ يُمِيْتُ وَ هُوَحَیٌّ لَّا يَمُوْتُ اَبَدًا اَبَدًاؕ ذُو"
+        "الْجَلَالِ وَالْاِكْرَامِؕ بِيَدِهِ الْخَيْرُؕ وَهُوَ عَلٰى كُلِّ شیْ ٍٔ قَدِیْر"ٌؕ"
+
+    </string>
+
+    <string name="Kalimapart11">
+        "There is none worthy of worship except Allah. He is alone and has no partner.\n"
+        To Him belongs the Kingdom and for Him is all praise. He gives life and causes death.\n"
+        In His hand is all good and He has power over everything.\n"
+
+    </string>
+
+    <string name="Kalimapart12">
+        "Laaa Ilaaha Illa-llaahu Wahdahoo Laa Shareeka-lahoo Lahu Mulku Walahu\n"
+        Hamdu Yuhyee Wayumeetu Wahuwa Hayyu Laa Yamootu Abadan Abada.\n"
+        Dhu Jalaali Wal Ikraam. Biyadihil Khair. Wahuwa Alaa Kulli Shai-’in Qadeer.\n"
+
+    </string>
+    <string name="Kalimapart13">
+
+"اَللّٰهُمَّ اِنِّیْٓ اَعُوْذُ بِكَ مِنْ اَنْ اُشْرِكَ بِكَ شَيْئًا وَّاَنَآ اَعْلَمُ بِهٖ وَ اَسْتَغْفِرُكَ لِمَا لَآ"
+        "اَعْلَمُ بِهٖ تُبْتُ عَنْهُ وَ تَبَرَّأْتُ مِنَ الْكُفْرِ وَ الشِّرْكِ وَ الْكِذْبِ وَ الْغِيْبَةِ وَ الْبِدْعَةِ وَ النَّمِيْمَةِ وَ الْفَوَاحِشِ و"َ
+        "الْبُهْتَانِ وَ الْمَعَاصِىْ كُلِِّهَا وَ اَسْلَمْتُ وَ اَقُوْلُ لَآ اِلٰهَ اِلَّا اللهُ مُحَمَّدٌ رَّسُوْلُ الله"ِؕ
+
+    </string>
+    <string name="Kalimapart14">
+        "O Allah! I seek refuge in You from that I should ascribe any partner with You knowingly.\n"
+        "I seek Your forgiveness for the sin of which I have no knowledge.\n"
+        "lying and backbiting, innovation and slander,\n"
+        "lewdness and abomination and all other acts of disobedience,\n"
+        "I submit to Your will.I believe and I declare that there is none worthy of\n"
+        "worship except Allah and Muhammad is the Messenger of Allah.\n"
+    </string>
+    <string name="Kalimapart15">
+        "Allaa-humma Inneee A’udhu-bika Min An Ushrika Bika Shay-awn Wa-ana A’lamu Bihee Wa-\n"
+        "astaghfiruka Limaa Laaa A’lamu Bihee Tubtu ‘Anhu Wata-barraatu Mina-l Kufri Wash-shirki Wal-kidhbi\n"
+        "Wal-gheebati Wal-bid’ati Wan-nameemati Wal-fawahishi Wal-buhtaani Wal-m’aasi Kulli-haa\n"
+        "Wa-Aslamtu Wa-aqoolu Laaa Ilaaha Illa-llaahu Muhammadu-r Rasoolu-llah\n"
+    </string>
+
+
+    <string name="group1">What are the categories of zakatable wealth?</string>
+    <string name="group2">Who can receive zakat?</string>
+    <string name="group3">Who can recieve zakat?</string>
+    <string name="group4">Who can recieve zakat?</string>
+    <string name="group5">Who can recieve zakat?</string>
+
+    <string name="zakat">Zakat</string>
+
+    <string name="zakat_rules">Zakat Rules</string>
+
+    <string name="cash">Cash</string>
+
+    <string name="gold">Gold</string>
+
+    <string name="asset">Asset</string>
+
+
+    <string name="total">Total</string>
+    <string name="zakat_amount">Total Payable</string>
+    <string name="essential">Essential</string>
+    <string name="conditional"> Terms and Condition</string>
+    <string name="essentialQ_1">What are the catagories of zakatable wealth?</string>
+    <string name="terms_and_condition">A Terms Conditions agreement, also known as a T and C, Terms
+    of Use or Terms of Service,is the legal backbone of the relationship between your mobile app and your users
+    it sets forth clauses that embody the reles, forth clauses that embody the reles, requirement, restrictions
+    and limitation that a user must agree to in order to use your mobile app.</string>
+    <string name="essentialQ_2">Who can receive zakat?</string>
+    <string name="rj_niat">
+       রোজার নিয়ত:\n
+
+نَوَيْتُ اَنْ اُصُوْمَ غَدًا مِّنْ شَهْرِ رَمْضَانَ\n
+        الْمُبَارَكِ فَرْضَا لَكَيَا اللهُ فَتَقَبَّل مِنِّى\n
+      اِنَّكَ اَنْتَ السَّمِيْعُ الْعَلِيْم\n
+
+আরবি নিয়ত :\n
+        নাওয়াইতু আন আছুম্মা গাদাম মিন শাহরি রমাজানাল মুবারাকি ফারদাল্লাকা,\n
+        ইয়া আল্লাহু ফাতাকাব্বাল মিন্নি ইন্নিকা আনতাস সামিউল আলিম।,\n
+    </string>
+    <string name="ifter_dowa">
+   ইফতারের সময় এই দোয়া পড়ে ইফতার করা:\n\n
+
+اَللَّهُمَّ لَكَ صُمْتُ وَ عَلَى رِزْقِكَ وَ\n
+        اَفْطَرْتُ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِيْمِيْن\n
+
+উচ্চারণ :\n
+        আল্লাহুম্মা লাকা ছুমতু ওয়া আলা রিযক্বিকা\n
+        ওয়া আফতারতু বিরাহমাতিকা ইয়া আরহামার রাহিমিন।\n
+
+    </string>
+    <string name="rojar_foroj">
+        রোজার ৩ ফরজ : \n\n
+
+১. নিয়ত করা\n
+২. সব ধরনের পানাহার থেকে বিরত থাকা\n
+৩. যৌন আচরণ থেকে বিরত থাকা।\n
+
+আবার অন্যভাবে বলা যায়\n
+        রোজার ফরজ ৬০ টি তা হলো,৩০ রোজার ৩০ নিয়ত করা ফরজ \n এবং ৩০ টি রোজা রাখা ও ফরজ।এভাবে বললে ফরজ হয় ৬০ টি।\n
+    </string>
+    <string name="rojer_wajib">
+        রমজানের ওয়াজিবসমূহ
+
+রমজানের সঙ্গে সম্পৃক্ত ওয়াজিব দুটি।\n
+        যথা: সদকাতুল ফিতর আদায় করা \n
+        ও ঈদের নামাজ পড়া। \n
+        ঈদের দিন সকালে যিনি নিসাব পরিমাণ সম্পদের মালিক বা অধিকারী থাকবেন,\n
+        তিনি তাঁর নিজের ও পরিবারের সব সদস্যের ফিতরা আদায় করবেন।\n
+        যদি কেউ নিসাব পরিমাণ সম্পদের মালিক না–ও থাকেন,\n
+        তবু সুন্নত বা নফল হিসেবে হলেও সদকাতুল ফিতরা প্রদান করা উত্তম।\n
+
+    </string>
+    <string name="fajael">
+        ১. এ মাসের সাথে ইসলামের একটি গুরুত্বপূর্ণ রুকনের সম্পর্ক রয়েছে ; আর তা হলে সিয়াম পালন।\n
+হজ যেমন জিলহজ মাসের সাথে সম্পর্কিত হওয়ার কারণে সে মাসের মর্যাদা বৃদ্ধি করেছে এমনি সিয়াম রমজান\n
+ মাসে হওয়ার কারণে এ মাসের মর্যাদা বেড়ে গেছে।\n
+ আল্লাহ রাব্বুল আলামিন বলেন : হে মোমিনগণ! তোমাদের উপর সিয়াম ফরজ করা হয়েছে, যেমনি ফরজ করা \n
+হয়েছে তোমাদের পূর্ববর্তীদের উপর-যাতে তোমরা মুত্তাকি হতে পার।\n
+ [সূরা বাকারা : ১৮৩] রাসূলে করিম সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন : ইসলাম যে পাঁচটি ভিত্তির উপর প্রতিষ্ঠিত তার\n
+ একটি হল সিয়াম পালন। এ সিয়াম জান্নাত লাভের একটি মাধ্যম ; যেমন হাদিসে এসেছে : যে আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান\n
+ আনল, সালাত কায়েম করল, জাকাত আদায় করল, সিয়াম পালন করল রমজান মাসে, আল্লাহ তাআলার কর্তব্য হল তাকে জান্নাতে\n
+ প্রবেশ করানো। [ বোখারি ] ২. রমজান হল কোরআন নাজিলের মাস। আল্লাহ রাব্বুল আলামিন বলেন : রমজান মাস,\n
+ এতে নাজিল হয়েছে আল-কোরআন, যা মানুষের দিশারি এবং স্পষ্ট নিদর্শন ও সত্যাসত্যের পার্থক্যকারী।\n
+[ সূরা বাকারা : ১৮৪ ] রমজান মাসে সপ্তম আকাশের লওহে মাহফুজ থেকে দুনিয়ার আকাশে বায়তুল ইজ্জতে \n
+পবিত্র আল-কোরআন একবারে নাজিল হয়েছে। সেখান হতে আবার রমজান মাসে অল্প অল্প করে নবী করিম সাল্লাল্লাহু\n
+ আলাইহি ওয়া সাল্লাম-এর প্রতি নাজিল হতে শুরু করে। কোরআন নাজিলের দুটি স্তরই রমজান মাসকে ধন্য করেছে। \n
+শুধু আল-কোরআনই নয় বরং ইবরাহিম আ.-এর সহিফা, তাওরাত, যবুর, ইঞ্জিল সহ সকল ঐশী গ্রন্থ এ মাসে অবতীর্ণ\n
+ হয়েছে বলে তাবরানী বর্ণিত একটি সহি হাদিসে উল্লেখ করা হয়েছে। (সহি আল-জামে) এ মাসে মানুষের হেদায়াত ও\n
+ আলোকবর্তিকা যেমন নাজিল হয়েছে তেমনি আল্লাহর রহমত হিসেবে এসেছে সিয়াম। তাই এ দুই নিয়ামতের শুকরিয়া \n
+আদায় করতে বেশি বেশি করে কোরআন তিলাওয়াত করা উচিত। প্রতি বছর রমজান মাসে জিবরাইল রাসূলুল্লাহ সাল্লাল্লাহু\n
+ আলাইহি ওয়া সাল্লাম-কে পূর্ণ কোরআন শোনাতেন এবং রাসূল সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম-ও তাকে পূর্ণ কোরআন শোনাতেন। \n
+আর জীবনের শেষ রমজানে আল্লাহর রাসূল দু বার পূর্ণ কোরআন তিলাওয়াত করেছেন। সহি মুসলিমের হাদিস দ্বারা এটা প্রমাণিত।\n
+    </string>
+
+    <string name="nameofallah">
+"1   Ar Rahmaan	الرحمن	The Beneficent\n
+2	Ar Raheem	الرحيم	The Merciful\n
+3	Al Malik	الملك	The King\n
+4	Al Quddus	القدوس	The Most Holy\n
+5	As Salam	السلام	Peace and Blessings\n
+6	Al Mumin	المؤمن	The Guardian of Faith\n
+7	Al Muhaymin	المهيمن	The Protector\n
+8	Al Azeez	العزيز	The All Mighty\n
+9	Al Jabbar	الجبار	The Compeller\n
+10	Al Mutakabbir	الْمُتَكَبِّرُ	The Dominate One, The Majestic\n
+11	Al Khaaliq	الخالق	The Creator\n
+12	Al Baari	البارئ	The Maker\n
+13	Al Musawwir	المصور	Flawless Shaper\n
+14	Al Ghaffar	الغفار	The Ever-Forgiving\n
+15	Al Qahhar	القهار	The All Subduer\n
+16	Al Wahhaab	الوهاب	The Bestower\n
+17	Ar Razzaaq	الرزاق	The Ever-Providing; The Sustainer\n
+18	Al Fattaah	الفتاح	The Ultimate Judge\n
+19	Al Aleem	العليم	The All-Knowing; The Omniscient\n
+20	Al Qaabid	القابض	The Restricting One\n
+21	Al Baasit	الباسط	The Expander\n
+22	Al Khaafidh	الخافض	The Abaser\n
+23	Ar Raafi	الرافع	The Exalter\n
+24	Al Muizz	المعز	The Giver of Honour\n
+25	Al Muzil	المذل	The Dishonourer\n
+26	As Samee	السميع	The All-Hearing\n
+27	Al Baseer	البصير	The All-Seeing\n
+28	Al Hakam	الحكم	The Judge; The Ultimate Arbiter\n
+29	Al Adl	العدل	The Utterly Just\n
+30	Al Lateef	اللطيف	The Kind\n
+31	Al Khabeer	الخبير	The All-Aware\n
+32	Al Halem	الحليم	The Forbearer; The Indulgent\n
+33	Al-‘Atheem	العظيم	The Magnificent; The Infinite\n
+34	Al Ghafoor	الغفور	The All-Forgiving\n
+35	Ash Shakur	الشكور	The Most Appreciative\n
+36	Al Alee	العلي	The Sublimely Exalted\n
+37	Al Kabeer	الكبير	The Greatest\n
+38	Al Hafeedh	الحفيظ	The Preserver; The Protector\n
+39	Al Muqeet	المقيت	The Nourisher\n
+40	Al Haseeb	الحسيب	The Reckoner\n
+41	Al Jaleel	الجليل	The Majestic\n
+42	Al Kareem	الكريم	The Bountiful; The Generous\n
+43	Ar Raqeeb	الرقيب	The Watchful\n
+44	Al Mujeeb	المجيب	The Responsive; The Answerer\n
+45	Al Waasi	الواسع	The Vast; The All Encompassing\n
+46	Al Hakeem	الحكيم	The Wise\n
+47	Al Wadood	الودود	The Loving; The Kind One\n
+48	Al Majeed	المجيد	The All Glorious\n
+49	Al Baith	الباعث	The Raiser of the Dead\n
+50	Ash Shaheed	الشهيد	The Witness\n
+51	Al Haqq	الحق	The Truth; The Real\n
+52	Al Wakeel	الوكيل	The Trustee; The Dependable\n
+53	Al Qawiyy	القوي	The Strong\n
+54	Al Mateen	المتين	The Firm; The Steadfast\n
+55	Al Waliyy	الولي	The Protecting Friend, Patron, and Supporter\n
+56	Al Hameed	الحميد	The All Praise Worthy\n
+57	Al Muhsee	المحصي	The Accounter; The Numberer of All\n
+58	Al Mubdi	المبدئ	The Producer, Originator, and Initiator of all\n
+59	Al Mu'id	المعيد	The Reinstater Who Brings Back All\n
+60	Al Muhyee	المحيي	The Giver of Life\n
+61	Al Mumeet	المميت	The Bringer of Death; The Destroyer\n
+62	Al Hayy	الحي	The Ever Living\n
+63	Al Qayyoom	القيوم	The Self Subsisting Sustainer of All\n
+64	Al Waajid	الواجد	The Perceiver; The Finder; The Unfailing\n
+65	Al Maajid	الماجد	The Illustrious; The Magnificent\n
+66	Al Waahid	الواحد	The One; The All Inclusive; The Indivisible\n
+67	Al Ahad	الاحد	The One; The Indivisible\n
+68	As Samad	الصمد	The Everlasting; The Eternal Refuge\n
+69	Al Qaadeer	القادر	The All-Capable; The Most Able; The Most Powerful\n
+70	Al Muqtadir	المقتدر	The All Determiner; The Dominant\n
+71	Al Muqaddim	المقدم	The Expediter; He Who Brings Forward\n
+72	Al Mu'akhkhir	المؤخر	The Delayer; He Who Brings Backwards\n
+73	Al Awwal	الأول	The First\n
+74	Al Aakhir	الآخر	The Last\n
+75	Az Dhaahir	الظاهر	The Manifest; The All Victorious\n
+76	Al Baatin	الباطن	The Hidden; The All Encompassing\n
+77	Al Waali	الوالي	The Patron\n
+78	Al Muta'ali	المتعالي	The Self Exalted\n
+79	Al Barr	البر	The Most Kind and Righteous\n
+80	At Tawwab	التواب	The Ever-Pardoning, Ever Relenting\n
+81	Al Muntaqim	المنتقم	The Avenger\n
+82	Al 'Afuww	العفو	The Pardoner; The Forgiver\n
+83	Ar Ra'oof	الرؤوف	The Clement; The Compassionate; The All-Pitying\n
+84	Maalik ul Mulk	مالك الملك	The Owner of All Sovereignty\n
+85	Dhul Jalaali wal Ikraam	ذو الجلال و الإكرام	The Lord of Majesty and Generosity\n
+86	Al Muqsit	المقسط	The Equitable; The Requiter\n
+87	Al Jaami'	الجامع	The Gatherer; The Unifier\n
+88	Al Ghaniyy	الغني	The All Rich; The Independent\n
+89	Al Mughni	المغني	The Enricher; The Emancipator\n
+90	Al Mani'	المانع	The Withholder; The Shielder; The Defender\n
+91	Ad Dharr	الضآر	The Distresser\n
+92	An Nafi'	النافع	The Propitious; The Benefactor\n
+93	An Nur	النور	The Light\n
+94	Al Haadi	الهادي	The Guide\n
+95	Al Badee'	البديع	Incomparable; The Originator\n
+96	Al Baaqi	الباقي	The Ever Enduring and Immutable\n
+97	Al Waarith	الوارث	The Heir; The Inheritor of All\n
+98	Ar Rasheed	الرشيد	The Guide, Infallible Teacher, and Knower\n
+99	As Saboor	الصبور	The Forbearing; The Patient\n"
+    </string>
+    <string name="all_dua">"১- দুআ করার সময় তা কবুল হওয়ার ব্যাপারে এ দৃঢ় বিশ্বাস রাখা এবং দৃঢ়তার সঙ্গে দুআ করা :
+যদি আল্লাহ সম্পর্কে যথার্থ জ্ঞান থাকে তাঁর কুদরত, মহত্ত্ব, ওয়াদা পালনের প্রতি ঈমান থাকে তাহলে এ বিষয়টা আয়ত্ব করা সহজ হবে।
+        নবী কারীম সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেন :
+لا يقل أحدكم
+        : اللهم اغفر لي إن شئت، وارحمني إن شئت، وارزقني إن شئت، وليعزم مسألته إنه يفعل ما يشاء ، لا مكره له . (رواه البخاري 7477)
+তোমাদের কেউ এ রকম বলবে না : হে আল্লাহ আপনি যদি চান তাহলে আমাকে ক্ষমা করে দিন। যদি আপনি চান তাহলে আমাকে অনুগ্রহ
+        করুন। যদি আপনি চান তাহলে আমাকে জীবিকা দান করুন। বরং দৃঢ়তার সঙ্গে প্রার্থনা করবে এবং মনে রাখবে তিনি যা চান
+        তা-ই করেন, তাকে কেউ বাধ্য করতে পারে না। (বুখারী)
+অর্থাৎ আল্লাহ যা ইচ্ছে করেন তা-ই করে থাকেন। তাই এভাবে প্রার্থনা বা মুনাজাত করার কোনো ¯^v_©KZv নেই যে, আপনি চাইলে
+        করেন। ঠিক এমনিভাবে তার কাছে দৃঢ়তার সঙ্গে প্রার্থনা করলে তাকে বাধ্য করা হয় না। কেননা তাকে কেউ বাধ্য করতে পারে
+        না। এটা প্রার্থনাকারীসহ সকলে জানে।
+রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম আরো বলেন :
+ادعوا الله وأنتم
+        موقنون بالإجابة، واعلموا أن الله لا يستجيب من قلب غافل لاه. (رواه الترمذي والحاكم وصححه الألباني في سلسلة الأحاديث الصحيحة برقم 594(
+প্রার্থনা কবুল হবে এ দৃঢ় বিশ্বাস রেখে তোমরা প্রার্থনা করবে। এবং জেনে রাখ আল্লাহ কোনো উদাসীন অন্তরের প্রার্থনা কবুল করেন না।
+        (তিরমিজী, হাকেম)
+২-বিনয় ও একাগ্রতার সঙ্গে দুআ করা এবং আল্লাহর অনুগ্রহ লাভ ও তার শাস্তি থেকে বাঁচার প্রবল আগ্রহ নিয়ে দুআ করা :
+আল্লাহ রাব্বুল আলামীন বলেন :
+ادْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً (الأعراف : 55)
+তোমরা বিনীতভাবে ও গোপনে তোমাদের প্রতিপালকের কাছে দুআ করবে। (আল-আরাফ : ৫৫)
+আল্লাহ তাআলা বলেন :
+إِنَّهُمْ كَانُوا يُسَارِعُونَ فِي الْخَيْرَاتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا (الأنبياء : 90)
+তারা সৎকর্মে প্রতিযোগিতা করে ও তারা আমার কাছে প্রার্থনা করে আশা ও ভীতির সঙ্গে এবং তারা থাকে আমার নিকট বিনীত। ( : ৯০)
+রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম দুআর সময় বিনয়, ভীতি ও আশা নিয়ে কিভাবে দুআ করতেন তার একটি ছোট দৃষ্টান্ত এ হাদীসে দেখা যায় :
+عن عبد الله بن عمرو بن العاص رضي الله عنهما أن النبي صلى الله عليه وسلم تلا قول الله عز وجل عن إبراهيم عليه السلام : (رب إنـهـن أضللن
+        كثيرا من الناس فمن تبعني فإنه مني ) وقول عيسى علي السلام (إن تعذبهم فإنهم عبادك وإن تغفر لهم فإنك أنت العزيز الحكيم) فرفع يديه وقال :
+        اللهم أمتي أمتي وبكى، فقال الله عز وجل : يا جبريل اذهب إلى محمد –وربك أعلم – فسله ما يبكيه. فأتاه جبريل فأخبره رسول الله صلى الله
+        عليه وسلم بما قال وهو أعلم، فقال الله تعالى : يا جبريل اذهب إلى محمد فقل : إنا سنرضيك في أمتك ولا نسوؤك . (رواه مسلم 202(
+আব্দুল্লাহ বিন আমর রা. থেকে বর্ণিত যে, নবী কারীম সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইবরাহীম আ. এর দুআ সম্পর্কে কুরআনের এ আয়াতটি
+        তেলাওয়াত করলেন, হে আমার প্রতিপালক! এ সকল প্রতিমা তো বহু মানুষকে বিভ্রান্ত করেছে। সুতরাং যে আমার অনুসরণ করবে
+        সে আমার দলভুক্ত।’ এবং তিনি ঈসা আ. এর দুআ সম্পর্কিত কুরআনের এ আয়াতটিও তেলাওয়াত করলেন, ‘তুমি যদি তাদের
+        শাস্তি দাও তবে তারা তো তোমারই বান্দা, আর যদি তাদেরকে ক্ষমা কর, তবে তুমি তো পরাক্রমশালী, প্রজ্ঞাময়।’ তিনি দু’হাত
+        উপরে তুললেন এবং বললেন, ‘হে আল্লাহ! আমার উম্মত! আমার উম্মত!!’ এবং তিনি কাঁদলেন। আল্লাহ বললেন, হে জিবরীল!
+        তুমি মুহাম্মাদের কাছে যাও, জিজ্ঞেস কর-অবশ্য তোমরা প্রভু ভাল জানেন- তাকে কিসে কাঁদিয়েছে। জিবরীল আসলেন। রাসূলুল্লাহ
+        সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তাকে বললেন তার কাঁদার কারণ -আল্লাহ তো অবশ্যই জানেন-। আল্লাহ বললেন, হে জিবরীল,
+        তুমি মুহাম্মদের কাছে যাও এবং বল, আমি অবশ্যই তার উম্মতের ব্যাপারে তাকে সন্তুষ্ট করব, তাকে এ ব্যাপারে অসম্মান করব
+        না। (মুসলিম)
+৩-আল্লাহর কাছে অত্যন্ত বিনীতভাবে ধর্না দেয়া এবং নিজের দুর্বলতা, অসহায়ত্ব ও বিপদের কথা আল্লাহর কাছে প্রকাশ করা :
+দেখুন আইউব আ. কিভাবে আল্লাহর কাছে প্রার্থনা করেছেন। আল্লাহ সে সম্পর্কে বলেন:
+وَأَيُّوبَ إِذْ نَادَى رَبَّهُ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنْتَ أَرْحَمُ الرَّاحِمِينَ . الأنبياء : 83(
+এবং স্মরণ কর আইউবের কথা, যখন সে তার প্রতিপালকের কাছে প্রার্থনা করে বলেছিল, আমি দুঃখ-কষ্টে পড়েছি, আর তুমি তো
+        সর্বশ্রেষ্ঠ দয়ালু। (Avj-Avw¤^qv : ৮৩)
+আল্লাহ রাব্বুল আলামীন যাকারিয়া আ. এর প্রার্থনা সম্পর্কে বলেন :قَالَ رَبِّ إِنِّي وَهَنَ الْعَظْمُ مِنِّي وَاشْتَعَلَ الرَّأْسُ شَيْبًا وَلَمْ أَكُنْ بِدُعَائِكَ رَبِّ شَقِيًّا ﴿4﴾ وَإِنِّي خِفْتُ
+        الْمَوَالِيَ مِنْ وَرَائِي وَكَانَتِ امْرَأَتِي عَاقِرًا فَهَبْ لِي مِنْ لَدُنْكَ وَلِيًّا ﴿5﴾ مريم :5-4
+সে বলেছিল, হে আমার প্রভু! আমার অস্থি দুর্বল হয়েছে, বার্ধক্যে আমার মস্তক সাদা হয়ে গেছে। হে আমার প্রতিপালক! তোমার কাছে
+        প্রার্থনা করে আমি কখনো ব্যর্থকাম হইনি। আমি আশংকা করি আমার পর আমার সগোত্রীয়দের সম্পর্কে ; আমার স্ত্রী বন্ধ্যা।
+        সুতরাং তুমি তোমার নিকট হতে দান কর উত্তরাধিকার। (মারইয়াম : ৪-৫)
+
+        source //crimepatrolbd.com/
+        " </string>
+    <string name="Morning_evening">"Dua to be recited in the morning:
+
+اللّهُـمَّ بِكَ أَصْـبَحْنا وَبِكَ أَمْسَـينا ، وَبِكَ نَحْـيا وَبِكَ نَمُـوتُ وَإِلَـيْكَ المَصِيْر
+O Allah we enter the day time and the evening and die with your Qudrat (power) and to You do we return.
+(Tirmidhi)
+
+When the sun rises recite
+الْحَمْدُ لِلَّهِ الَّذِي أَقَالَنَا يَوْمَنَا هَذَا وَلَمْ يُهْلِكْنَا بِذُنُوبِنَا (مُسْلِمْ)
+All praise be to Allah who has forgiven us today and not destroyed us due to our sin.
+(Muslim)
+
+                \n
+    Source www.searchtruth.com
+" </string>
+    <string name="home_family">"When entering ones home
+اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ الْمَوْلِجِ وَخَيْرَ الْمَخْرَجِ بِسْمِ اللَّهِ وَلِجْنَا وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا
+"O Allah, I seek a good entry and a good exit. We take Allah\'s name to enter and to exit and rely on Him who is our Lord.
+After this dua greet the members of the household.
+
+(Mishkat)
+When leaving the house
+Recite:
+بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ
+"I depart with Allah's name, relying on Him. It is Allah who saves us from sins with His guidance (the ability to do so)." (Tirmidhi)
+                \n
+    Source www.searchtruth.com
+" </string>
+    <string name="food_drink">"Before meals
+        Recite:
+    بِسْمِ اللَّهِ وَعَلَى بَرَكَةِ اللَّهِ
+    In the name of Allah and with the blessings of Allah I begin (eating)".(Mustadrak)
+    After Meals
+    Recite:
+
+        الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مِنَ الْمُسْلِمِينَ
+
+        "All praise belongs to Allah, who fed us and quenched our thirst and made us Muslims".
+        (Ibn Al Sunni) When drinking water
+        Drink water or anything else that is halal whilst sitting with two or three breaths and
+        do not breathe or blow in the container. When drinking, recite: بِسْمِ اللَّهِ and when finished
+        recite الْحَمْدُ لِلَّهِ (Mishkat)
+                \n
+    Source www.searchtruth.com
+" </string>
+    <string name="joy_distress">"اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ الْهَمِّ وَالْحُزْنِ وَالْعَجْزِ وَالْكَسَلِ وَالْبُخْلِ وَالْجُبْنِ وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ
+                Allahumma inni a’udhu bika minal-hammi wal-Ḥuzni wal-‘ajazi wal-kasli wal-bukhli wal-jubni wa
+        ḍala’id-dayni wa ghalabatir-rijal.
+        O Allah, I take refuge in You from anxiety and sorrow, weakness and laziness, miserliness
+        and cowardice, the burden of debts and from being overpowered by men.
+
+        \n
+        اللَّهُمَّ رَحْمَتَكَ أَرْجُو فَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ وَأَصْلِحْ لِي شَأْنِي كُلَّهُ لَا إِلَهَ إِلَا أَنْتَ
+        Allahumma rahmataka arju fala takilni ila nafsi tarfata ‘aynin wa aslih li sha’ni kullahu la
+        ilaha ila anta
+
+        O Allah, it is Your mercy that I hope for, so do not leave me in charge of my affairs even
+        for a blink of an eye, and rectify for me all of my affairs. None has the right to be
+        worshiped except You.
+
+        \n
+        source //muslimmatters.org/
+        " </string>
+
+
+
+
+    <string name="ruls_of_namaj_head">"নামাজ পড়ার নিয়ম" </string>
+
+    <string name="prayer">"
+    আসসালামু আলাইকুম ওয়া রহমাতুল্লাহ !
+    বিসমিল্লাহির রাহমানির রাহিম
+
+     আমরা প্রতিদিন নামাজ পড়ি,কিন্তু নামাজে কি বলছি,কি করছি তা কিছুই জানি না।অধিকাংশ
+        মানুষই নামাজে যে সুরা সমুহ ও তাসবিহ গুলো পড়ছে তার অর্থ জানেনা।যার কারনে
+        নামাজে অমনযোগী হয়।মনে হয় যে তোতা পাখির মত শুধু বলেই যাচ্ছি,কিন্তু কি বলছি
+        কিছুই জানি না,তাহলে নামাজের মাঝে আল্লাহর প্রতি বিনয়,শ্রদ্ধা,ভয়,আত্ম-সমর্পন আসবে
+        কিভাবে?অথচ আল্লাহ সুবহানাতা’আলা বলেছেন “ধবংস ওই নামাজি যে তার নামাজ সম্পর্কে
+        বেখবর।”নামাজে মনোযোগ আনতে হলে অবশ্যই নামাজে কি কি করছি তার অর্থ ভাল ভাবে জানতে হবে বুঝতে
+        হবে।অর্থ যদি জানা থাকে এবন তা লক্ষ্য করে নামায আদায় করি, তাহলে আমাদের নামায আরো সুন্দর হবে।
+        নামাজের নিয়াত ও তাক্ বীরে তাহঃরীমা নামাজের ইচ্ছা করাই হচ্ছে নামাজের নিয়াত করা। মুখে উচ্চারণ করা জরুরী নয়,
+        তবে মুস্তাহাব।সমস্ত নামাজেই ,নাওয়াইঃতু আন্ উছাল্লিয়া লিল্লাহি তায়া’লা
+
+        (২ রাকাত হলে) রাক্ ‘য়াতাই ছালাতিল
+        (৩ রাকাত হলে) ছালাছা রাক্ ‘য়াতাই ছালাতিল
+        (৪ রাকাত হলে) আর্ বায় রাক্ ‘য়াতাই ছালাতিল
+        (ওয়াক্তের নাম) ফাজ্ রি/ জ্জুহরি/আ’ছরি/মাগরিবি/ইশাই/জুমুয়া’তি
+        (কি নামাজ তার নাম) ফারদ্বুল্ল-হি/ওয়াজিবুল্ল-হি/সুন্নাতু রসূলিল্লাহি/নাফলি।
+        (সমস্ত নামাজেই) তায়া’লা মুতাওয়াজ্জিহান্ ইলা জিহাতিল্ কা’বাতিশ শারীফাতি আল্ল-হু আক্ বার।
+        বাংলায় নিয়াত করতে চাইলে বলতে হবে,আমি আল্লা-হ্’র উদ্দেশ্যে ক্কেবলা মুখী হয়ে, ফজরের/জোহরের/আসরের/মাফরিবের/
+        ঈশার/জুময়ার/বি’তরের/তারঅবি/তাহাজ্জুদের(অথবা যে নামাজ হয় তার নাম)২ র’কাত/৩র’কাত/৪ র’কাত (যে কয় রাকাত
+        নামাজ তার নাম)ফরজ/ওয়াজিব/সুন্নাত/নফল নামাজ পড়ার নিয়াত করলাম, আল্ল-হু আকবার ।তাকবীরে তাহরীমা- আল্লাহু আক্
+        বার, অর্থ-আল্লাহ মহান ।
+
+        সানাঃ–(হাত বাধার পর এই দোয়া পড়তে হয়)
+        উচ্চারণ :-সুবহা-না কাল্লা-হুম্মা ওয়া বিহাম্ দিকা ওয়াতাবারঅ কাস্ মুকা ওয়াতা’ আ-লা জাদ্দুকা ওয়া লা-ইলা-হা গাইরুক।
+        অর্থ- হে আল্লাহ ! আমি আপনার পবিত্রতা ঘোষণা করছি এবং আপনার মহিমা বর্ণনা করছি। আপনার নাম বরকতময়,
+        আপনারমাহাত্ম্য সর্বোচ্চ এবং আপনি ভিন্ন কেহই ইবাদতের যোগ্য নয় ।তাআ’উজঃউচ্চারণ-আউযুবিল্লা-হি মিনাশ
+        শাইত্বা-নির রাজীম ।অর্থ-বিতারিত শয়তান থেকে আল্লাহর কাছে আশ্রয় চাচ্ছি ।তাসমিয়াঃ- বিসমিল্লাহির রাহমানির রাহিম ।
+        অর্থ-পরম দাতা ও দয়ালু আল্লাহর নামে শুরু করছি ।এরপর সূরা ফাতিহা পাঠ করতে হয়, সূরা ফাতিহা
+        তিলাওয়াতের পর পবিত্র কোরআনের যে কোন জায়গা থেকে তিলাওয়াত করতে হয় ।রুকুর তাসবীহঃউচ্চারণ-সুবহা-না
+        রব্ বি ইঃয়াল্ আ’জ্বীম। অর্থ-মহান প্রতিপালকের পবিত্রতা ও মহাত্মতা ঘোষণা করছি ।তাসমীঃ-(রুকু থেকে দাঁড়ানোর সময়
+        পড়তে হয়)উচ্চারণ-সামি আল্লা হুলিমান হামিদাহ,অর্থ-প্রশংসাকারীর প্রশংসা আল্লাহ শোনেন ।তাহমীদঃ-(রুকু থেকে দাঁড়িয়ে
+        পড়তে হয়)উচ্চারণ-রাব্বানা লাকাল হামদ ।অর্থ-হে আমার প্রভু, সমস্ত প্রশংসা আপনারই ।
+        সিজদার তাসবীহঃ
+        উচ্চারণ-সুবহা-না রাব্বিয়াল আ’লা।অর্থ-আমার প্রতিপালক যিনি সর্বশ্রেষ্ট, তারই পবিত্রতা বর্ণনা করছি ।
+        দু’সিজদার মাঝখানে পড়ার দোয়াঃ উচ্চারণ-আল্লাহু ম্মাগ ফিরলী ওয়ার হামনি ওয়ার যুক্কনী ।
+        অর্থ-হে আল্লাহ, আমাকে ক্ষমা করুন, আমাকে রহম করুন, আমাকে রিজিক দিন ।
+        [হানীফি মাযহাবে এই দোয়া পড়া হয় না, কেউ যদি হানীফি মাযহাব এর হয়ে থাকেন তাহলে এই সময এক তসবী পড়তে
+        যে সময় লাগে , সেই সময় পর্যন্ত বিরতি দিয়ে পুনঃরায় সেজদায় যাওয়া।]তাশাহুদ বা আত্তাহিয়্যাতুঃ
+        উচ্চারণঃ-আত্তাহিয়্যাতু লিল্লা-হি, ওয়াছ ছালা-ওয়াতু, ওয়াত-তাইয়্যিবা তু, আচ্ছালা মু আ’লাইকা, আইয়্যুহান নাবিয়্যু, ওয়ারাহ
+        মাতুল্লাহি ওয়া বারাকাতুহ, আচ্ছালামু আলাইনা, ওয়া আ’লা ইবাদিল্লা হিছ-ছা লিহীন। আশহাদু আল লা-ইলা-হা ইল্লাল্লাহু,
+        ওয়া আশহাদু আন্না মুহাম্মাদান আবদুহু ওয়া রাসুলুহু ।
+        অর্থঃ-আমাদের সব সালাম শ্রদ্ধা, আমাদের সব নামাজ এবং সকল প্রকার
+        পবিত্রতা একমাত্র আল্লাহর উদ্দেশ্যে। হে নবী, আপনার প্রতি
+        সালাম, আপনার উপর আল্লাহর রহমত এবং অনুগ্রহ বর্ষিত হউক । আমাদের ও আল্লাহর নেক বান্দাদের উপর আল্লাহর রহমত
+        এবং অনুগ্রহ বর্ষিত হউক। আমি সাক্ষ্য দিচ্ছি যে, আল্লাহ ছাড়া আর কেউ নেই, আমি আরও সাক্ষ্য দিচ্ছি যে, হযরত মুহাম্মদ
+        (সঃ) আল্লাহর বান্দা এবং রাসুল ।দরুদ শরীফ
+        উচ্চারণ:-আল্লহুম্মা ছাল্লি আ’লা মুহাম্মাদিওঁ ওয়া আ’লা আ-লি মুহাম্মাদিন কামা ছাল্লাইতা আ’লা ইব্রহীমা ওয়া আ’লা
+        আ-লি ইব্রহীমা ইন্নাকা হামীদুম মাজী-দ্ ।আল্লাহুম্মা বারিক্ আ’লা মুহাম্মাদিওঁ ওয়া আ’লা আ’লি মুহাম্মাদিন,
+        কামা বা-রাকতা আ’লা ইব্রহীমা ওয়া আ’লা আ’লি ইব্রহীমা ইন্নাকা হামিদুম মাজীদ । অর্থ-হে আল্লাহ, দয়া ও রহমত করুন
+        হযরত মুহাম্মাদ (সঃ) এর প্রতি এবং তার বংশধরদের প্রতি, যেমন রহমত করেছেন হযরত ইব্রাহীম (আঃ)
+        ও তার বংশধরদের উপর। নিশ্চই আপনি উত্তম গুনের আধার এবং মহান। হে আল্লাহ,
+        বরকত নাযিল করুন হযরত মুহাম্মাদ (সঃ) এর প্রতি এবং তার বংশধরদের প্রতি, যেমন করেছেন হযরত ইব্রাহীম (আঃ)
+        ও তার বংশধরদের উপর। নিশ্চই আপনি প্রশংসার যোগ্য ও সম্মানের অধিকারী ।
+        দোয়ায়ে মাসূরাঃউচ্চারন:-আল্লা-হুম্মা ইন্নী জ্বলামতু নাফসী জুলমান কাছীরও ওয়ালা ইয়াগফিরু যুনূবা ইল্লা আনতা ফাগ্ ফিরলী
+        মাগফিরাতাম মিন ইনদিকা ওয়ার হামনী
+        ইন্নাকা আনতাল গাফুরুর রাহীম।অর্থ-হে মহান আল্লাহ, আমি আমার নিজের উপর অনেক জুলুম করেছি (অর্থাৎ অনেক গুনাহ/পাপ
+        করেছি) কিন্তু আপনি ব্যতীত অন্য কেহ গুনাহ মাফ
+        করতে পারে না। অতএব হে আল্লাহ অনুগ্রহ পূর্বক আমার গুনাহ মাফ করে দিন এবং আমার প্রতি সদয় হোন; নিশ্চই আপনি অতি
+        ক্ষমাশীল ও দয়ালু ।দোয়ায়ে কুনুতঃ
+        (বিতরের নামাজের পর ৩য় রাকায়াতে সূরা ফাতিহা ও অন্য কিরআত পড়ার পর এই দোয়া পড়তে হয় )।উচ্চারণ-“আল্লাহুম্মা ইন্না
+        নাসতা’ঈনুকা ওয়া নাসতাগ ফিরুকা, ওয়া নু’মিনু বিকা ওয়া না তা ওয়াক্কালু আলাইকা ওয়া নুছনি আলাইকাল খাইর। ওয়া
+        নাশকুরুকা,ওয়ালা নাকফুরুকা, ওয়া নাখ লা, ওয়া নাত রুকু মাইয়্যাফ জুরুকা। আল্লাহুম্মা ইয়্যাকা না’বুদু ওয়ালাকা
+        নুছাল্লিওয়া নাসজুদু ওয়া ইলাইকা নাস’আ,ওয়া নাহফিদু ওয়া নারজু রাহমাতাকা ওয়া নাখ’শা আযাবাকা ইন্না আযা-বাকা
+        বিল কুফফা-রি মুল হিক ।”অর্থ-হে আল্লাহ, আমারা আপনার নিকট সাহায্য চাই। আপনার নিকট গোনাহের জন্য
+        ক্ষমা প্রার্থনা করি। আপনার প্রতি ঈমান এনেছি। আমরা কেবল মাত্র আপনার উপরেই ভরসা করি। সর্বপ্রকার কল্যান
+        ও মংগলের সাথে আপনার প্রশংসা করি। আমরা আপনার শোকর আদায় করি, আপনার দানকে অস্বীকার করি না।আপনার নিকট
+        ওয়াদা করছি যা, আপনার অবাধ্য লোকদের সাথে আমরা কোন সম্পর্ক রাখব না-তাদেরকে পরিত্যাগ করব । হে আল্লাহ,
+        আমরা আপনারই দাসত্ব স্বীকার করি।কেবলমাত্র আপনার জন্যই নামাজ পড়ি, কেবল আপনাকেই সিজদা করি এবং আমাদের
+        সকল প্রকার চেষ্টা-সাধনা ও কষ্ট স্বীকার কেবল আপনার সন্ততুষ্টির জন্যই। আমরা কেবল আপনার ই রহমত লাভের আশা করি,
+        আপনার আযাবকে আমাওরা ভয় করি। নিশ্চই আপনার আযাবে কেবল কাফেরগনই নিক্ষিপ্ত হবে।বিঃদ্রঃ বাংলা উচ্চারণে কখনই
+        আরবী সহিহ হয়না তাই সকলকে অনুরোধ করব যথা শীঘ্র সম্ভব আরবীতে উচ্চারণ শিখে নিতে তবেই আপনার নামাজ সহিহ
+        হবে।"
+        \n
+
+    </string>
+
+
+    <string name="travel">"Dua when travelling in a ship
+When travelling in a ship recite:
+بِسْمِ اللَّهِ مَجْرَاهَا وَمُرْسَاهَا إِنَّ رَبِّي لَغَفُورٌ رَّحِيمٌ . وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ وَالْأَرْضُ جَمِيعاً قَبْضَتُهُ يَوْمَ القِيَامَةِ وَالسَّمَاوَاتُ مَطْوِيَّاتٌ بِيَمِينِهِ سُبْحَانَهُ وَتَعَالَى عَمَّا يُشْرِكُونَ .
+"In the name of Allah, it moves and stops. Definitely my Lord is forgiving and merciful and the Kuffar have not recognised Him as they should, whereas on the Day of Qiyamah the whole earth will be in His fist and the skies folded in His right hand. He is Pure and Superior (lofty) from the belief which the Mushrikeen hold (have)".
+(Hisnul Hasin)
+
+Dua when alighting off a vehicle
+When alighting off a vehicle recite:
+أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ
+"I seek refuge in Allah by His complete words from the evils of the creation".
+By reciting this dua, no harm will befall on the person.
+(Muslim)
+
+Dua at the time of his departure:
+اللَّهُمَّ إِطْوِ لَهُ الْبُعْدَ وَهَوِّنْ عَلَيْهِ السَّفَرَ
+"O Allah, let his journey be covered quickly and most easily".
+
+(Tirmidhi)
+                \n
+    Source www.searchtruth.com
+" </string>
+
+
+    <string name="prisising_allah">"For praising Allah
+سُبْـحَانَ اللهِ وَبِحَمْدِهِ سُبْـحَانَ اللهِ العَظِيمِ
+Glorified is Allah and praised is He. Glorified is Allah the most great.
+Al-Bukhari 7:168
+For praising Allah
+سُبْحَانَ اللهِ، والحَمْدُ للهِ، وَ لاَ إِلَهَ إلاَّ اللهُ واللهُ أَكْبَرُ
+Glory is to Allah, and praise is to Allah, and there is none worthy of worship but Allah,
+        and Allah is the Most Great.
+At-Tirmidhi: 3509
+                \n
+    Source www.searchtruth.com
+" </string>
+
+
+    <string name="hajj_umrah">"Talbiya of Hajj
+Recite:
+لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ ، لَا شَرِيكَ لَكَ
+"I am present, O Allah, I am present, there is no partner unto You. I am present.
+        Definitely praise and glory is yours (for You). The Kingdom is also Yours.
+        There is no partner for You".
+
+(Mishkat)
+Dua to be read at Arafat
+Recite:
+لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ
+        عَلَى كُلِّ شَيْءٍ قَدِيرٍ . اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورَاً وَفِي سَمْعِي نُورَاً وَفِي بَصَرِي نُورَاً اللَّهُمَّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَأَعُوذُ بِكَ مِنْ
+        وَسَاوِسِ الصُّدُورِ وَشَتَاتِ الْأَمْرِ وَفِتْنَةِ الْقَبْرِ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ مَا يَلِجُ فِي اللَّيْلِ وَشَرِّ مَا يَلِجُ فِي النَّهَارِ وَشَرِّ مَا تَهِبُّ بِهِ الرِّيَاحُ
+"There is none worthy of worship besides Allah, He is all by Himself, He has no partner, His is
+        the Kingdom, for Him is all praise, He has power over all things. O Allah, make Nur in
+        my heart, in my ears Nur and in my eyes Nur. O Allah open my chest (bossom), make my
+        tasks easy and I seek refuge in You from the whispers of the chest, from disorganisation
+        in working and from the punishment of the grave. O Allah, I seek refuge in You from the
+        evils that come with the wind".
+
+(Hisnul Hasin)
+While making Tawaaf
+
+Recite:
+سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ
+
+"Allah is pure and I praise Allah, there is none worthy of worship besides Him, He is the
+        Greatest. Allah is the One who turns us away from sin and grants the ability to do good".
+
+(Mishkat from Ibn Maja)
+
+        When making Qurbani
+Recite:
+إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّماَوَاتِ وَالأَرْضَ مِلَّةَ إِبْرَاهِيمَ حَنِيفَاً وَمَا أَنَا مِنَ الْمُشْرِكِينَ
+        . إِنَّ صَلاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ العَالَمِينَ لاَ شَرِيكَ لَهُ وَبِذَلِكَ أُمِرْتُ وَأَنَا أَوَّلُ المُسْلِمِينَ ، اللَّهُمَّ مِنْكَ وَلَكَ
+When making Qurbani, place the animal facing the Qibla and recite:
+"I have turned my face to that Being who has created the skies and the Earth in the state
+        of the Straight Deen of Ibrahim - and I am not amongst the Mushrikeen. Definitely,
+        my Salaat, my Ibadat and my living and dying is all for Allah, who is the Lord of the
+        worlds, and who has no partner. I have been ordered (all that passed) I am amongst the
+        Muslimeen (the obedient). O Allah this sacrifice is due to You granting us the ability
+        to do so and it is for You".
+
+(Mishkat)
+After عَنْ mention the name of the person in whose name the sacrifice is made and if it is from
+        oneself then state the name. After this recite and slaughter the animal. بِسْمِ اللَّهِ اللَّهُ أَكْبَرُ
+        (Mishkat)
+
+                \n
+    Source www.searchtruth.com
+" </string>
+
+    <string name="good_ETIQUETTE">"On awakening from sleep recite this dua:
+الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ
+"All praise be to Allah, who gave us life after killing us (sleep is a form of death) and to Him
+        will we be raised and returned".
+
+(Bukhari, Muslim)
+Upon having a nightmare, recite:
+أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ غَضَبِهِ وَعِقَابِهِ وَشَرِّ عِبَادِهِ وَمِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَنْ يَحْضُرُونَ
+With the total words of Allah, I seek protection from His wrath, from His punishment and from the
+        servants evil and from the whispers of Satan and I seek protection from (these) coming to
+        me.
+
+(Hisnul Hasin)
+
+
+
+When entering the toilet recite:
+Bismillah "In the name of Allah"
+It is in the hadith that between the eyes of Satan and the private parts of man Bismillah is
+        a barrier therefore, this dua should be recited.
+اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبْثِ وَالْخَبَائِثِ
+"O Allah. I seek refuge in You from the male female evil and Jinns".
+        (Mishkat, Hisnul Hasin)
+                \n
+    Source www.searchtruth.com
+" </string>
+
+    <string name="nature">"At the time of heavy winds
+Recite:
+اللَّهُمَّ اجْعَلْهَا رَحْمَةً وَلَا تَجْعَلْهَا عَذَابَاً اللَّهُمَّ اجْعَلْهَا رِيَاحَاً وَلَا تَجْعَلْهَا رِيحَاً
+When there is a heavy wind, sit in the position of attahiyat and recite:
+"O Allah, let it be a mercy and not a punishment. O Allah make it a beneficial and not a destructive wind".
+
+(Mishkat)
+                \n
+    Source www.searchtruth.com
+" </string>
+
+    <string name="sickness_death">"When tired of life
+Due to difficulty death is sought but one should never pray for death instead pray this:
+اللَّهُمَّ أَحْيِنِي مَا كَانَتِ الْحَيَاةُ خَيْرٌ لِي وَتَوَفَّنِي إِذَا كَانَتِ الْوَفَاةُ خَيْرَاً لِي
+"O Allah keep me alive as long as is good for me and when death is better for me lift me".
+
+(Mishkat)
+
+For the cure of any illness
+Ayesha (R.A.) stated that when anyone among them had an illness, Prophet Mohammad (SAW.) used to
+        rub the area of the pain reciting the following dua:
+أَذْهِبِ الْبَأْسَ رَبَّ النَّاسِ وَاشْفِ أَنْتَ الشَّافِي لَا شِفَاءَ إِلَّا شِفَاؤُكَ شِفَاءٌ لَا يُغَادِرُ سَقَمَاً
+"O Lord of the people, remove this pain and cure it, You are the one who cures and there is no one
+        besides You who can cure, grant such a cure that no illness remains".
+If fever rise or pain increases:
+بِسْمِ اللَّهِ الْكَبِيرِ أَعُوذُ بِاللَّهِ الْعَظِيمِ مِنْ شَرِّ كُلِّ عَرَقٍ نَعَّارٍ وَمِنْ شَرِّ حَرِّ النَّارِ
+"I seek relief taking Allah\'s great blessed name from all the evils of pulling (pulsating) nerves
+        and from the evils of the hot fire".
+
+(Tirmidhi)
+        For kidney stone or urination problems
+Blow on the one who has stopped urinating or has stone ailment or any other difficulty:
+رَبُّنَا اللَّهُ الَّذِي فِي السَّمَاءِ تَقَدَّسَ اسْمُكَ أَمْرُكَ فِي السَّمَاءِ
+        وَالْأَرْضِ كَمَا رَحْمَتُكَ فِي الْأَرْضِ وَاغْفِرْ لَنَا حَوْبَنَا وَخَطَايَانَا أَنْتَ رَبُّ الطَّيِّبِينَ فَأَنْزِلْ شِفَاءً مِنْ شِفَائِكَ وَرَحْمَةً مِنْ رَحْمَتِكَ عَلَى هَذَا الْوَجَعِ
+"Our Lord is Allah who is in the skies (worthy of worship). Your name is Pure. Your authority is
+        prevalent in the sky and earth, just as Your Mercy is in the sky thus lower it on earth as
+        well and forgive our sins and errors. You are the Lord of the pure ones thus descend upon
+        this pain a cure (relief) from Your reliefs/cures and descend a Mercy from amongest Your
+        Mercies on this pain.
+If somone is smitten by a poisonous animal then read Surah Fatiha 7 times and blow on the animal"
+
+(Hisn from Tirmidhi)
+If somone is not mentally stable then read Surah Fatiha blow on that person.
+
+(Abu Dawood and Nisani)
+
+When burying the dead
+Recite:
+بِسْمِ اللَّهِ وَبِاللَّهِ وَعَلَى مِلَّةِ رَسُولِ اللَّهِ
+"In the name of Allah and with His aid and on the Madhab (deen) of the Rasul of Allah I place him
+        in the grave".
+
+(Hisnul Hasin)
+After the burial recite Surah Fatiha and the beginning of Surah Baqarah at the head side and the
+        last ayats of Surah Baqarah at the feet.
+
+(Mishkat)
+When one sees heavy clouds
+Recite:
+اللَّهُمَّ إِنَّا نَعُوذُ بِكَ مِنْ شَرِّ مَا أُرْسِلَ بِهِ اللَّهُمَّ صَيِّبَاً نَافِعَاً
+"O Allah I seek refuge in You from the evil of what has been sent. O Allah, give us beneficial
+        rain".(Hisnul Hasin)
+At the time of thunder
+Recite:
+اللَّهُمَّ لَا تَقْتُلْنَا بِغَضَبِكَ وَلَا تُهْلِكْنَا بِعَذَابِكَ وَعَافِنَا قَبْلَ ذَلِكَ
+"O Allah, do not let us die by Your anger and do not destroy us with Your punishment, but
+        grant us safety".
+
+(Tirmidhi)
+
+                \n
+    Source www.searchtruth.com
+" </string>
+
+
+    <string name="morning_evening">"Dua to be recited in the morning:
+
+اللّهُـمَّ بِكَ أَصْـبَحْنا وَبِكَ أَمْسَـينا ، وَبِكَ نَحْـيا وَبِكَ نَمُـوتُ وَإِلَـيْكَ المَصِيْر
+O Allah we enter the day time and the evening and die with your Qudrat (power) and to You do we return.
+(Tirmidhi)
+
+When the sun rises recite
+الْحَمْدُ لِلَّهِ الَّذِي أَقَالَنَا يَوْمَنَا هَذَا وَلَمْ يُهْلِكْنَا بِذُنُوبِنَا (مُسْلِمْ)
+All praise be to Allah who has forgiven us today and not destroyed us due to our sin.
+(Muslim)
+                \n
+    Source www.searchtruth.com
+" </string>
+
+
+    <string name="daily_dua"> "When In Anger:
+
+In the stressful and highly competitive life of today, the one issue that almost every one of us faces pertaining to our conduct is anger. Everyone of us undergoes anger at one point or another during the day. The anger of ours leads to clouding our judgment and the consequent decisions we make end up hurting someone or making a decision that is a total loss. Therefore, for everyone in general and Muslims in particular, it is imperative to avoid anger, and one of the best way of doing so can be by reciting Dua. Pertaining to Dua for avoiding and controlling anger, Prophet Muhammad (PBUH) told of the Dua in one of His hadith in the following way:
+
+“If a person reads (this) when he is angry, then his anger shall go away.
+
+اَعُوْذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ
+Transliteration – “A’oozu Bil’laahi Minash Shaitaanir Rajeem”
+Translation– “I seek refuge in Al’laah from Shaitaan the cursed” [Tirmizi Shareef Vol.2 Pg.183].
+
+From this hadith it becomes evident that being in the state of anger is being under the influence of Satan. Therefore, when it comes to avoiding Satan or controlling his induced temptations, there is no better refuge than Allah Almighty. Hence, whenever in anger, a Muslim must recite this Dua and seek the help of Allah Almighty.
+
+Before And After Meal:
+
+Another important and regular activity done in daily routine is taking of meal. Usually across the globe people have three meals, however, there are areas in the world where people face hunger and don’t have regular meals available for providing nutrition to the body. Therefore, the provision of meals during the day is one of the greatest blessings of Allah Almighty and for such blessing a Muslim ought to be thankful to Allah the Merciful. When it comes to Dua pertaining to meals, there is a Dua that a Muslim must recite before the meal and a Dua which must be recited after the meal. The Duas to recite in this regard are as follows:
+
+Dua before the meal is:
+
+بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ
+Transliteration – “Bismil laahir Rahmaanir Raheem”
+Translation – “Al’laah’s Name we begin with, The Compassionate, Most Merciful.”
+
+When finished with eating, a Muslim must recite the following Dua:
+
+اَ لْحَمْدُ للهِ الَّذِىْ اَطْعَمَنَا وَسَقَاناَ وَجَعَلَناَ مِنَ الْمُسْلِمِيْنَ
+Transliteration – “Alhumdu lil laahil Lazee At’amana Wa Saqaana Wa Ja’alana Minal Muslimeen”.
+Translation – “All Praise is due to Al’laah, who has blessed us with food and drink and made us from amongst the Believers (Muslims)”. [Abu Dawood Pg.573]
+
+The essence of both of these Duas is of thanking Allah Almighty for all the Mercy and Blessings He has bestowed upon Muslims in the form of meal.
+
+Entering And Exiting Masjid:
+
+Another regular activity that Muslims perform on daily basis is going to Masjid for prayers five times a day. Islam has put great stress on five times a day prayers in general and saying the prayers in the mosque in particular. Therefore, a practicing Muslim enters and exits a mosques five times a day where he submits to Allah Almighty and indulges in His prayer. Therefore, it is imperative that a Muslim knows and understands the importance of being in the mosque and recites particular Duas on respective actions.
+
+Dua before entering the mosque is:
+
+اللّهُـمَّ افْتَـحْ لي أَبْوابَ رَحْمَتـِك
+Transliteration – “Allaahum-maf-Tahlee Abwaaba Rahmatika”.
+Translation – “O Allaah, open the doors of Your Mercy for me.” [Sahi’h Muslim]
+
+After prayer when a person exits Masjid, the following Dua should be recited:
+
+اللّهُـمَّ إِنّـي أَسْأَلُكَ مِـنْ فَضْـلِك
+Transliteration – “Allaahum-ma In-nee As`aluka Min Fadhlika”.
+Translation – “O Allaah, I seek of You Your Grace.” [Sahi’h Muslim]
+
+Thus when entering and exiting mosque, a Muslim must ask for the Mercy and Grace of Allah Almighty.
+
+When Sneezing:
+
+Although most of the activities undertaken by us in our daily routine are intentional, however, there are few unintentional things as well that happen to us every day. One of such things is the act of sneezing. The frequency of sneezing varies from person to person according to their nature and the condition they are in, regardless of whatever the reason be, the revival of breath after a sneeze is also a blessing of Allah Almighty and a Muslim ought to say thanks for it. Moreover, besides the person who sneezes, the other person who witnesses the sneeze must also respond to the Dua made by the sneezer. The person who sneezes must recite the following Dua:
+
+"</string>
+
+
+    <string name="al_quran">"The Quran (/kɔːrˈɑːn/[Note 1] kor-AHN; Arabic: القرآن‎, romanized:
+        al-Qurʼān Arabic pronunciation: [alqur'ʔaːn],[Note 2] literally meaning "the recitation"),
+        also romanized Qur'an or Koran,[Note 3] is the central religious text of Islam, which
+        Muslims believe to be a revelation from God (Allah).[11] It is widely regarded as the
+        finest work in classical Arabic literature.[12][13][Note 4][Note 5] Slightly shorter than
+        the New Testament,[16] it is organized in 114 chapters (Arabic: سورة sūrah, plural سور suwar)
+        — not according to chronology or subject matter, but according to length of surahs
+        (with some exceptions).[17] Surah are subdivided into verses (Arabic: آية āyah, plural آيات āyāt).
+
+Muslims believe that the Quran was orally revealed by God to the final prophet, Muhammad,
+        through the archangel Gabriel (Jibril),[18][19] incrementally over a period of some
+        23 years, beginning on 22 December 609 CE,[20] when Muhammad was 40, and concluding
+        in 632, the year of his death.[11][21][22] Muslims regard the Quran as Muhammad's most
+        important miracle, a proof of his prophethood,[23] and the culmination of a series of
+        divine messages starting with those revealed to Adam, including the Tawrah (Torah), the
+        Zabur ("Psalms") and the Injil ("Gospel"), and ending with Muhammad's revelation. The
+        word "Quran" occurs some 70 times in the Quran's text, and other names and words are
+        also said to refer to the Quran.[24] It is thought by Muslims to be not simply divinely
+        inspired, but the literal word of God.[25]
+
+According to tradition, several of Muhammad's companions served as scribes and recorded the
+        revelations.[26] Shortly after his death, the Quran was compiled by the companions,
+        who had written down or memorized parts of it.[27] The codices showed differences that
+        motivated Caliph Uthman to establish a standard version, now known as Uthman's codex,
+        which is generally considered the archetype of the Quran known today. There are, however,
+        variant readings, with mostly minor differences in meaning.[26]
+
+The Quran assumes familiarity with major narratives recounted in the Biblical scriptures. It
+        summarizes some, dwells at length on others and, in some cases, presents alternative
+        accounts and interpretations of events.[28][29][30] The Quran describes itself as a
+        book of guidance for mankind (2:185). It sometimes offers detailed accounts of specific
+        historical events, and it often emphasizes the moral significance of an event over its
+        narrative sequence.[31][32] Supplementing the Quran with explanations for some cryptic
+        Quranic narratives, and rulings that also provide the basis for sharia (Islamic) law
+        (in most denominations of Islam),[33][Note 6] are Hadith — oral and written traditions
+        believed to describe words and actions of Muhammad.[Note 7][33] During prayers, the Quran
+        is recited only in Arabic.[34]
+
+Someone who has memorized the entire Quran is called a hafiz. Quranic verse (ayah) is sometimes
+        recited with a special kind of elocution reserved for this purpose, called tajwid. During
+        the month of Ramadan, Muslims typically complete the recitation of the whole Quran during
+        tarawih prayers. In order to extrapolate the meaning of a particular Quranic verse, most
+        Muslims rely on exegesis, or tafsir.[35]
+
+        \n
+        source https://en.wikipedia.org/wiki/Quran
+
+        "</string>
+
+
+    <string name="title_activity_google_map">Map</string>
+
+
+    <string name="dhaka_bangladesh">" Dhaka, Bangladesh  "</string>
+
+
+    <string-array name="group1">
+        <item>All possessions can be classified into either zakatable or non-zakatable
+        wealth. for the purpose of zakat calculation, Muslim scholars have established five
+            categories of zakatable wealth:
+            (a) Personal Zakatable Wealth:
+            this includes money held in retirement and pension accounts.
+            (b)Business Zakatable Wealth:
+            1.Trading goods and liquid assets including business inventory
+            2.Exploited assets such as rented properties and factories
+            (c)Agricultural produce:
+            1.Crops from irrigated land,wherein the irriation system entails costs and labor
+            2.Crops from non-irrigated land watered by rain or natural spings
+        </item>
+    </string-array>
+
+    <string-array name="group2">
+        <item>item1</item>
+        <item>item2</item>
+    </string-array>
+    <string-array name="group3">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+    </string-array>
+    <string-array name="group4">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+    </string-array>
+    <string-array name="group5">
+        <item>ite1</item>
+        <item>ite2</item>
+        <item>ite3</item>
+        <item>ite4</item>
+        <item>ite5</item>
+    </string-array>
+
+
+</resources>

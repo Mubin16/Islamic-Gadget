@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bckgrndhz"
+    tools:context=".Hajj"
+    android:orientation="vertical"
+    android:layout_gravity="center">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:background="@drawable/navbg"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_marginTop="5dp">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbarhaj"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="2dp"
+            android:background="@drawable/navbg"
+            android:gravity="center"
+            android:layout_gravity ="center"
+            android:theme="@style/toolbar_theme">
+
+        </androidx.appcompat.widget.Toolbar>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="362dp"
+        android:layout_height="213dp"
+        android:paddingLeft="50dp"
+        android:src="@drawable/sss" />
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="383dp"
+        android:layout_height="84dp"
+        android:layout_gravity="center"
+        android:background="@drawable/hazz" />
+    <Button
+        android:id="@+id/btn2"
+        android:layout_marginTop="10dp"
+        android:layout_width="383dp"
+        android:layout_height="84dp"
+        android:layout_gravity="center"
+        android:background="@drawable/umrah" />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_marginTop="10dp"
+        android:layout_width="383dp"
+        android:layout_height="84dp"
+        android:layout_gravity="center"
+        android:background="@drawable/dua" />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_marginTop="10dp"
+        android:layout_width="383dp"
+        android:layout_height="84dp"
+        android:layout_gravity="center"
+        android:background="@drawable/hajjmap" />
+    <Button
+        android:id="@+id/btn5"
+        android:layout_marginTop="10dp"
+        android:layout_width="383dp"
+        android:layout_height="84dp"
+        android:layout_gravity="center"
+        android:background="@drawable/importantinfomation" />
+
+
+
+
+</LinearLayout>

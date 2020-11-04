@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".MainActivity_zakat">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/ZakatToolbarView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/text_Background_Color"
+            android:layout_marginTop="10dp"
+            android:theme="@style/toolbar_theme"
+            android:background="@drawable/bg">
+        </androidx.appcompat.widget.Toolbar>
+        <TextView
+            android:id="@+id/zakatRules_textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/zakat_rules"
+            android:textAllCaps="true"
+            android:textColor="@color/textColor"
+            android:textSize="25dp" />
+
+        <LinearLayout
+            android:id="@+id/ImageLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="top|center"
+            android:layout_margin="5dp">
+
+            <ImageButton
+                android:id="@+id/essentialImgBtn"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+                android:background="@drawable/bg"
+                android:src="@drawable/essential_icon" />
+
+            <ImageButton
+                android:id="@+id/conditionImgBtn"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+                android:background="@drawable/bg"
+                android:src="@drawable/conditions" />
+        </LinearLayout>
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/cashLayout"
+            android:layout_width="340dp"
+            android:layout_height="44dp"
+            android:layout_marginLeft="16dp"
+            android:gravity="top|center"
+            android:layout_marginTop="10dp"
+            android:layout_weight="2"
+            android:orientation="vertical"
+            android:background="@drawable/square_angle_big">
+
+            <TextView
+                android:id="@+id/cashTextview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="5dp"
+                android:gravity="left|center"
+                android:text="@string/cash"
+                android:textAllCaps="true"
+                android:textColor="@color/white_textcolor"
+                android:textSize="25dp" />
+
+            <EditText
+                android:id="@+id/cashEditText"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="182dp"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="4dp"
+                android:background="@drawable/edit_rounded"
+                android:gravity="center"
+                android:hint="00000000"
+                android:inputType="number"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white_textcolor"
+                android:textSize="25dp"
+                android:textStyle="italic"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/goldLayout"
+            android:layout_width="340dp"
+            android:layout_height="44dp"
+            android:layout_marginLeft="16dp"
+            android:gravity="top|center"
+            android:layout_marginTop="10dp"
+            android:layout_weight="2"
+            android:orientation="vertical"
+            android:background="@drawable/square_angle_big">
+
+            <TextView
+                android:id="@+id/goldTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="4dp"
+                android:text="@string/gold"
+                android:textAllCaps="true"
+                android:textColor="@color/white_textcolor"
+                android:textSize="25dp" />
+
+            <EditText
+                android:id="@+id/goldEditText"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="182dp"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="4dp"
+                android:background="@drawable/edit_rounded"
+                android:gravity="center"
+                android:hint="00000000"
+                android:inputType="number"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white_textcolor"
+                android:textSize="25dp"
+                android:textStyle="italic" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="340dp"
+            android:layout_height="44dp"
+            android:layout_marginLeft="16dp"
+            android:gravity="top|center"
+            android:layout_marginTop="10dp"
+            android:layout_weight="2"
+            android:orientation="vertical"
+            android:background="@drawable/square_angle_big">
+
+            <TextView
+                android:id="@+id/assetTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="3dp"
+                android:text="@string/asset"
+                android:textAllCaps="true"
+                android:textColor="@color/white_textcolor"
+                android:textSize="25dp" />
+
+            <EditText
+                android:id="@+id/assetEditText"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="182dp"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="4dp"
+                android:background="@drawable/edit_rounded"
+                android:gravity="center"
+                android:hint="00000000"
+                android:inputType="number"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white_textcolor"
+                android:textSize="25dp"
+                android:textStyle="italic" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/totalLayout"
+            android:layout_width="160dp"
+            android:layout_height="44dp"
+            android:layout_marginLeft="16dp"
+            android:gravity="top|center"
+            android:layout_marginTop="10dp"
+            android:layout_weight="2"
+            android:orientation="vertical"
+            android:background="@drawable/square_angle_big">
+
+            <TextView
+                android:id="@+id/totalTextView"
+                android:layout_width="110dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="18dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginBottom="3dp"
+                android:text="@string/total"
+                android:textAllCaps="true"
+                android:textColor="@color/white_textcolor"
+                android:textSize="25dp" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="340dp"
+            android:layout_height="44dp"
+            android:layout_marginLeft="16dp"
+            android:gravity="top|center"
+            android:layout_marginTop="10dp"
+            android:layout_weight="2"
+            android:orientation="vertical"
+            android:background="@drawable/square_angle_big">
+
+            <TextView
+                android:layout_width="125dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="214dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:text="total amount"
+                android:textAllCaps="true"
+                android:textColor="@color/white_textcolor"
+                android:textSize="15dp" />
+
+            <EditText
+                android:id="@+id/Zakat_Input"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="182dp"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="4dp"
+                android:background="@drawable/edit_rounded"
+                android:gravity="center"
+                android:hint="00000000"
+                android:inputType="number"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white_textcolor"
+                android:textSize="25dp"
+                android:textStyle="italic"  />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="160dp"
+            android:layout_height="38dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:background="@drawable/total_zakat_amount_rounded_background"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/zakat_AmountButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="14dp"
+                android:layout_marginRight="230dp"
+                android:layout_marginBottom="5dp"
+                android:gravity="center"
+                android:text="@string/zakat_amount"
+                android:textAllCaps="true"
+                android:textColor="@color/black_text_color"
+                android:textSize="15dp"
+                />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/zakat_AmountLayout"
+            android:layout_width="340dp"
+            android:layout_height="44dp"
+            android:layout_marginLeft="16dp"
+            android:gravity="top|center"
+            android:layout_marginTop="10dp"
+            android:layout_weight="2"
+            android:orientation="vertical"
+            android:background="@drawable/total_zakat_amount_rounded_background">
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="235dp"
+                android:layout_marginRight="230dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:text="amount"
+                android:textAllCaps="true"
+                android:textColor="@color/black_text_color"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/zakat_Result"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="182dp"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="4dp"
+                android:background="@drawable/edit_rounded"
+                android:gravity="center"
+                android:hint="00000000"
+                android:inputType="number"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white_textcolor"
+                android:textSize="25dp"
+                android:textStyle="italic" />
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>
